@@ -1,3 +1,8 @@
+body{
+    background-image:url(../img/fundo.png);
+
+}
+
 
 
 #topo{
@@ -11,11 +16,19 @@
 
 }
 
-.topo2{
-  
 
+#topo{
+    font-family: 'Indie Flower', cursive;  
+    font-size: 80px;
+    text-align: center;
+    margin: auto;
+    width: auto;
+    height: 200px;
+ 
 
 }
+
+
 
 #menu{
     
@@ -46,9 +59,18 @@ font-size: 20px;
 
 .ta{
 text-align: center;
-font-size: 35px;
+font-size: 45px;
 color: peru;
+font-family: 'Indie Flower', cursive; 
 }
+
+
+.to{
+    text-align: center;
+    font-size: 42px;
+   color: peru;
+   font-family: 'Indie Flower', cursive; 
+    }
 
 hr{
     
